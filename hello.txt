@@ -2,3 +2,4 @@ this is my first line
 this is my second line
 this is a new line from my friend's place
 this is another line from JT
+this is a the CONFLICTED LINE
