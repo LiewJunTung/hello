@@ -1,4 +1,4 @@
 this is my first line
 this is my second line
 this is a new line in master branch
-
+this is a new line in a new branch
